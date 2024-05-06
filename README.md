@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning on how to integrate Python with Chat GPT for this project I'm working on.
 - 💞️ I’m looking to collaborate on any interesting projects!
 - 📫 How to reach me: danieldeda165@gmail.com
-- ⚡ Fun fact: I love racing cars (especially BMW's)!
+- ⚡ Fun fact: I love playing basketball/soccer and racing cars (especially BMW's)!
 
 <!---
 daniel-deda/daniel-deda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
